@@ -1,2 +1,2 @@
 # testsite
-brutal beginner website
+brutal beginner static website
