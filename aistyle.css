@@ -8,7 +8,7 @@ body {
 #main {
   float: left;
   width: 85%;
-  height: 100vh;
+  height: 200vh;
   background-color: #161616;
 }
 
@@ -116,69 +116,4 @@ h4 {
   padding: 0 0 0 0;
   color: #ffffff;
   font-size: 18pt;
-}
-
-#weissl {
-  width: 50%;
-  min-height: 50vh;
-
-  background-color: #ffffff;
-  float: left;
-  color: #161616;
-  font-size: auto;
-}
-#schwarzr {
-  width: 50%;
-  min-height: 50vh;
-  height: auto;
-  background-color: rgb(20, 20, 20);
-  float: left;
-  color: #ffffff;
-  font-size: 16pt;
-}
-#weissr {
-  width: 50%;
-  min-height: 50vh;
-  height: auto;
-  background-color: #ffffff;
-  float: left;
-  color: #161616;
-  font-size: 16pt;
-}
-#schwarzl {
-  width: 50%;
-  min-height: 50vh;
-  height: auto;
-  background-color: rgb(20, 20, 20);
-  float: left;
-  color: #ffffff;
-  font-size: 16pt;
-}
-#weissboxfont {
-  color: #161616;
-  font-size: 16pt;
-  padding: 10px;
-}
-#schwarzboxfont {
-  color: #ffffff;
-  font-size: 16pt;
-}
-#weissboxhead {
-  color: #161616;
-  font-size: 20pt;
-  padding: 10px;
-  font-weight: bold;
-}
-#schwarzboxhead {
-  color: #ffffff;
-  font-size: 20pt;
-  font-weight: bold;
-}
-
-.oben {
-  height: auto;
-}
-
-.unten {
-  height: auto;
 }
